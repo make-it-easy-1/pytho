@@ -1,3 +1,4 @@
+#this is a simple programe in python of a calculator to practice 
 def add(x,y):
  return x+y
 
